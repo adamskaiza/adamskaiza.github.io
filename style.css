@@ -43,11 +43,9 @@ span{
 
 .header{
     display: flex;
-    align-text: center;
+    text-align: center;
     justify-content: center;
     flex-direction: column;
-    height: 100vh;
-    min-height: 500px;
     background: url('img/ocean.jpg');
 }
 
