@@ -1,5 +1,5 @@
 * {
-    transition: all 1s linear;
+    transition: all 0.4s linear;
 }
 
 body{
@@ -34,7 +34,7 @@ p{
 }
 
 p:hover {
-    background: hotpink;
+    background: lightslategray;
 }
 
 span{
@@ -46,7 +46,8 @@ span{
     text-align: center;
     justify-content: center;
     flex-direction: column;
-    background: url('img/ocean.jpg');
+    background: url('img/niebo.jpg');
+  
 }
 
 .container {
