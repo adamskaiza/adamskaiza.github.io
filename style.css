@@ -45,6 +45,7 @@ span{
     display: flex;
     text-align: center;
     justify-content: center;
+    width: 100%;
     flex-direction: column;
     background: url('img/niebo.jpg');
   
